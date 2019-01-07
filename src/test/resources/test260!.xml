@@ -1,0 +1,54 @@
+<DetailsSearchResidentPreferentialCategoriesFullResponse xmlns:ns2="http://asur/dszn/" xmlns="http://asur/dszn/">
+    <Result>
+        <DetailsSearchResidentPreferentialCategories>
+            <EndDate>0001-01-01T00:00:00</EndDate>
+            <Snils>125-471-254 42</Snils>
+            <NamePreferentialCategory>Ветеран труда</NamePreferentialCategory>
+            <PreferentialCategoryId>15</PreferentialCategoryId>
+            <StartDate>1997-03-04T00:00:00+03:00</StartDate>
+            <StartDateReasons>
+                <ReasonDocument>
+                    <DateOfIssue xmlns:ns3="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">1997-03-
+                        04T00:00:00+03:00
+                    </DateOfIssue>
+                    <Name xmlns:ns4="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">удостоверение
+                        "Ветеран труда"
+                    </Name>
+                    <Number xmlns:ns5="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">606410</Number>
+                    <PlaceOfIssue xmlns:ns6="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">УСЗН
+                        БУТЫРСКОГО РАЙОНА
+                    </PlaceOfIssue>
+                    <Series xmlns:ns7="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">Т-II</Series>
+                </ReasonDocument>
+            </StartDateReasons>
+        </DetailsSearchResidentPreferentialCategories>
+        <DetailsSearchResidentPreferentialCategories>
+            <EndDate>0001-01-01T00:00:00</EndDate>
+            <Snils>125-471-254 42</Snils>
+            <NamePreferentialCategory>Инвалид 2 группы</NamePreferentialCategory>
+            <PreferentialCategoryId>22</PreferentialCategoryId>
+            <StartDate>1998-04-17T00:00:00+04:00</StartDate>
+            <StartDateReasons>
+                <ReasonDocument>
+                    <DateOfIssue xmlns:ns8="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">1998-04-
+                        17T00:00:00+04:00
+                    </DateOfIssue>
+                    <Name xmlns:ns9="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">справка МСЭ об
+                        установлении инвалидности
+                    </Name>
+                    <Number xmlns:ns10="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">94431</Number>
+                    <PlaceOfIssue xmlns:ns11="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">БМСЭ
+                        Бутырское
+                    </PlaceOfIssue>
+                    <Series xmlns:ns12="uri:citsp-br-social-support" xmlns="uri:citsp-br-social-support">264</Series>
+                </ReasonDocument>
+            </StartDateReasons>
+        </DetailsSearchResidentPreferentialCategories>
+    </Result>
+    <DocumentReady>true</DocumentReady>
+    <InputData>
+        <ServiceProperties xmlns="">
+            <snils>125-471-254 42</snils>
+        </ServiceProperties>
+    </InputData>
+</DetailsSearchResidentPreferentialCategoriesFullResponse>
